@@ -25,8 +25,8 @@ _This is an italic text_
 
 ### Bold
 
-<b> This is an bold text </b>  
-**This is an bold text**
+<b> This is a bold text </b>  
+**This is a bold text**
 
 <br/>
 
